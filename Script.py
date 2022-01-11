@@ -68,15 +68,7 @@ class script(object):
 • /connect  - <code>ᏟϴΝΝᎬᏟͲ Ꭺ ᏢᎪᎡͲᏆᏟႮᏞᎪᎡ ᏟᎻᎪͲ Ͳϴ ᎽϴႮᎡ ᏢᎷ</code>
 • /disconnect  - <code>ᎠᏆՏᏟϴΝΝᎬᏟͲ ҒᎡϴᎷ Ꭺ ᏟᎻᎪͲ</code>
 • /connections - <code>ᏞᏆՏͲ ᎪᏞᏞ ᎽϴႮᎡ ᏟϴΝΝᎬᏟͲᏆϴΝՏ</code>"""
-FUN_TXT ="""<b>𝖥𝗎𝗇 𝖬𝗈𝖽𝗎𝗅𝖾𝗌</b> 
-    
-<b>🎲 𝖭𝗈𝗍𝗁𝗂𝗇𝗀 𝗆𝗎𝖼𝗁 𝗃𝗎𝗌𝗍 𝗌𝗈𝗆𝖾 𝖿𝗎𝗇 𝗌𝗍𝗎𝖿𝖿𝗌</b>
-𝗍𝗋𝗒 𝗍𝗁𝖾𝗌𝖾 𝗈𝗎𝗍: 
-𝟣. /dice - 𝖱𝗈𝗅𝗅 𝗍𝗁𝖾 𝖽𝗂𝖼𝖾
-𝟤. /Throw 𝗈𝗋 /Dart - 𝖳𝗈 𝗍𝗁𝗋𝗈𝗐 𝖺 𝖽𝖺𝗋𝗍
-3. /Runs - 𝖩𝗎𝗌𝗍 𝗌𝗈𝗆𝖾 𝗋𝖺𝗇𝖽𝗈𝗆 𝖽𝖺𝗂𝗅𝗈𝗎𝗀𝖾𝗌
-4. /Goal or /Shoot - 𝖳𝗈 𝗀𝗈𝖺𝗅 𝗈𝗋 𝗌𝗁𝗈𝗈𝗍 𝖺 𝖻𝖺𝗅"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+EXTRAMODE_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
 ͲᎻᎬՏᎬ ᎪᎡᎬ ͲᎻᎬ ᎬХͲᎡᎪ ҒᎬᎪͲႮᎡᎬՏ ϴҒ ᎷᏦ ՏႮᏢᏢϴᎡͲ 🔥
