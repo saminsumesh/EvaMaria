@@ -79,10 +79,10 @@ EXTRAMODE_TXT = """Help: <b>Extra Modules</b>
 • /info  - <code>ᏀᎬͲ ᏆΝҒϴᎡᎷᎪͲᏆϴΝ ᎪᏴϴႮͲ Ꭺ ႮՏᎬᎡ.</code>
 • /imdb  - <code>ᏀᎬͲ ͲᎻᎬ ҒᏆᏞᎷ ᏆΝҒϴᎡᎷᎪͲᏆϴΝ ҒᎡϴᎷ ᏆᎷᎠᏴ ՏϴႮᎡᏟᎬ.</code>
 • /search  - <code>ᏀᎬͲ ͲᎻᎬ ҒᏆᏞᎷ ᏆΝҒϴᎡᎷᎪͲᏆϴΝ ҒᎡϴᎷ ᏙᎪᎡᏆϴႮՏ ՏϴႮᎡᏟᎬՏ.</code>"""
-    ADMIN_TXT = """Help: <b>MK mods</b>
+    ADMIN_TXT = """Help: <b>Admin mods</b>
 
-<b>NOTE:</b> 
-ͲᎻᏆՏ ᎷϴᎠႮᏞᎬ ϴΝᏞᎽ ᏔϴᎡᏦՏ ҒϴᎡ ᎷᎽ ᎷᏦ🔥
+<b>NOTE:</b>
+This module only works for my admins
 
 <b>Commands and Usage:</b>
 • /logs - <code>Ͳϴ ᏀᎬͲ ͲᎻᎬ ᎡᎬՏᏟᎬΝͲ ᎬᎡᎡϴᎡՏ.</code>
