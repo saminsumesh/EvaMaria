@@ -48,15 +48,6 @@ class script(object):
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-FUN_TXT = """Help: <b>ҒႮΝ ᎷϴᎠᎬ</b> 
-    
-<b>🎲 Nothing But Fun Stuffs</b>
-
-ᏔᎬᏞᏟϴᎷᎬ Ͳϴ ҒႮΝ ᎷϴᎠᎬ Ꭰϴ ͲᎻᎬ ҒϴᏞᏞϴᏔᏆΝᏀ 💥
-
-1. /dice- Ͳϴ ᎡϴᏞᏞ ͲᎻᎬ ᎠᏆᏟᎬ
-2./throw - Ͳϴ ᎷᎪᏦᎬ ᎠᎡᎪͲ
-3./goal - Ͳϴ ᎷᎪᏦᎬ Ꭺ ᏀϴᎪᏞ
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
