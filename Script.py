@@ -85,17 +85,16 @@ EXTRAMODE_TXT = """Help: <b>Extra Modules</b>
 This module only works for my admins
 
 <b>Commands and Usage:</b>
-• /logs - <code>Ͳϴ ᏀᎬͲ ͲᎻᎬ ᎡᎬՏᏟᎬΝͲ ᎬᎡᎡϴᎡՏ.</code>
-• /stats - <code>Ͳϴ ᏀᎬͲ ՏͲᎪͲႮՏ ϴҒ ҒᏆᏞᎬՏ ᏆΝ ᎠᏴ.</code>
-• /delete - <code>Ͳϴ ᎠᎬᏞᎬͲᎬ Ꭺ ՏᏢᎬᏟᏆҒᏆᏟ ҒᏆᏞᎬ ҒᎡϴᎷ ᎠᏴ</code>
-• /users - <code>Ͳϴ ᏀᎬͲ ᏞᏆՏͲ ϴҒ ᎷᎽ ႮՏᎬᎡՏ ᎪΝᎠ ᏆᎠՏ.</code>
-• /chats - <code>Ͳϴ ᏀᎬͲ ᏞᏆՏͲ ϴҒ ͲᎻᎬ ᎷᎽ ᏟᎻᎪͲՏ ᎪΝᎠ ᏆᎠՏ.</code>
-• /leave  - <code>Ͳϴ ᏞᎬᎪᏙᎬ ҒᎡϴᎷ Ꭺ ᏟᎻᎪͲ.</code>
-• /disable  -  <code>Ꭰϴ ᎠᏆՏᎪᏴᏞᎬ Ꭺ ᏟᎻᎪͲ.</code>
-• /ban  - <code>Ͳϴ ᏴᎪΝ Ꭺ ႮՏᎬᎡ.</code>
-• /unban  - <code>Ͳϴ ႮΝᏴᎪΝ Ꭺ ႮՏᎬᎡ.</code>
-• /channel - <code>Ͳϴ ᏀᎬͲ ᏞᏆՏͲ ϴҒ ͲϴͲᎪᏞ ᏟϴΝΝᎬᏟͲᎬᎠ ᏟᎻᎪΝΝᎬᏞՏ</code>
-• /broadcast - <code>Ͳϴ ᏴᎡϴᎪᎠᏟᎪՏͲ Ꭺ ᎷᎬՏՏᎪᏀᎬ Ͳϴ ᎪᏞᏞ ႮՏᎬᎡՏ</code>"""
+• /logs - <code>to get the rescent errors</code>
+• /stats - <code>to get status of files in db.</code>
+• /delete - <code>to delete a specific file from db.</code>
+• /users - <code>to get list of my users and ids.</code>
+• /chats - <code>to get list of the my chats and ids </code>
+• /leave  - <code>to leave from a chat.</code>
+• /disable  -  <code>do disable a chat.</code>
+• /ban  - <code>to ban a user.</code>
+• /unban  - <code>to unban a user.</code>
+• /channel - <code>to get list of total connected channels</code>
     STATUS_TXT = """😻𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 😻 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 😻 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
