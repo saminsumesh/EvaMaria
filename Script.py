@@ -81,7 +81,7 @@ EXTRAMODE_TXT = """Help: <b>Extra Modules</b>
 • /search  - <code>ᏀᎬͲ ͲᎻᎬ ҒᏆᏞᎷ ᏆΝҒϴᎡᎷᎪͲᏆϴΝ ҒᎡϴᎷ ᏙᎪᎡᏆϴႮՏ ՏϴႮᎡᏟᎬՏ.</code>"""
     ADMIN_TXT = """Help: <b>MK mods</b>
 
-<b>NOTE:</b>
+<b>NOTE:</b> 
 ͲᎻᏆՏ ᎷϴᎠႮᏞᎬ ϴΝᏞᎽ ᏔϴᎡᏦՏ ҒϴᎡ ᎷᎽ ᎷᏦ🔥
 
 <b>Commands and Usage:</b>
