@@ -33,6 +33,14 @@ class script(object):
 • /filters - <code>ʟɪsᴛ ᴏғ ᴀʟʟ ғɪʟᴛᴇʀs ɪɴ ᴄʜᴀᴛ</code>
 • /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ғɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</code>
 • /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ғɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ(chat owner only)</code>"""
+   FUN_TXT = """ҒႮΝ ᎷϴᎠᎬ
+
+ᏔᎬᏞᏟϴᎷᎬ Ͳϴ ҒႮΝ ᎷϴᎠᎬ Ꭰϴ ͲᎻᎬ ҒϴᏞᏞϴᏔᏆΝᏀ 💥
+
+1. /dice- Ͳϴ ᎡϴᏞᏞ ͲᎻᎬ ᎠᏆᏟᎬ
+2./throw - Ͳϴ ᎷᎪᏦᎬ ᎠᎡᎪͲ
+3./goal - Ͳϴ ᎷᎪᏦᎬ Ꭺ ᏀϴᎪᏞ
+"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
 - ᴍᴋ  sᴜᴘᴘᴏʀᴛs ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴs.
